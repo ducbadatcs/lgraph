@@ -1,0 +1,32 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+
+# openai
+langchain-openai
+
+# gemini
+langchain-google-genai
+
+# groq
+langchain-groq
+
+# huggingface
+langchain-huggingface
+
+# ipykernel
+ipykernel
+ipython
+tqdm
+ipywidgets
+jupyter
+
+
+# lmao
+grandalf
+
+
+# other stuff
+fastapi[standard]
+python-dotenv

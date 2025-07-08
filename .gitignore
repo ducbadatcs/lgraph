@@ -4,3 +4,8 @@
 /Scripts
 pyvenv.cfg
 README.md
+
+.env
+
+/etc
+/share
