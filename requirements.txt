@@ -29,4 +29,5 @@ grandalf
 
 # other stuff
 fastapi[standard]
+pydantic
 python-dotenv
